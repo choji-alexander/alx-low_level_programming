@@ -9,5 +9,5 @@ int main(void)
 		putchar(ch);
 		putchar ('\n'); 
 	}
-	printf(ch);
+	getch();
 }
